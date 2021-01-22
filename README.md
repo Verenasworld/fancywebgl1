@@ -1,2 +1,2 @@
 # fancywebgl1
-https://modern-trading.academy/
+https://verenasworld.github.io/fancywebgl1/
